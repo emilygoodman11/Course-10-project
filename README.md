@@ -1,2 +1,5 @@
-# Course-10-project
-##step #2 add text to file
+# Testrepo
+
+## editing the file
+
+its a markdown file in this repository
